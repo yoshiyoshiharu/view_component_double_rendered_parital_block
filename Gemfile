@@ -8,3 +8,4 @@ gem 'bootsnap', require: false
 gem 'pg'
 gem 'puma'
 gem 'rails'
+gem 'view_component'
